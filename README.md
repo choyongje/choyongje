@@ -1,4 +1,4 @@
-# 안녕하세요 👋, 앱 개발자 조용제입니다
+#  Hi 👋, I'm Choyongje
 
  **A frontend developer from Uruguay**
 
