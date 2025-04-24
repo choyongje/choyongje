@@ -1,4 +1,4 @@
-# Hi 👋, I'm Miguel
+# 안녕하세요 👋, 앱 개발자 조용제입니다
 
  **A frontend developer from Uruguay**
 
