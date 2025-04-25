@@ -36,7 +36,18 @@
 ### Tools
 [![Languages](https://skillicons.dev/icons?i=vscode,androidstudio,postman,figma,git,eclipse)](https://skillicons.dev)
 
----
+
+## 📖 Side Projects
+
+| 프로젝트 | 설명 | 링크 |
+| -------- | ---- | ---- |
+| Login UI | Flutter로 구현한 인증 화면 샘플 | [코드 보기](https://github.com/Lovingcats/Flutter_project/tree/master/Login/login) |
+| Dice Game | 주사위 게임 앱 | [코드 보기](https://github.com/Lovingcats/Flutter_project/tree/master/license/license) |
+| Netflix Clone | 영화 목록 UI 클론 프로젝트 | [코드 보기](https://github.com/Lovingcats/Flutter_project/tree/master/netflix/netflix) |
+| Weather App | OpenWeather API를 사용한 날씨 앱 | [코드 보기](https://github.com/Lovingcats/Flutter_project/tree/master/weather) |
+
+
+
 ## 📈 Statistics
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Lovingcats&count_private=true&theme=github_dark&show_icons=true" alt="Lovingcats" />
@@ -44,3 +55,4 @@
     <img width="48%"src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=Lovingcats&branding=false"/>
   </a>
 </p>
+
