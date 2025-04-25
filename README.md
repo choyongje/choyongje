@@ -14,7 +14,7 @@
 <p align="left">
 	<a href="https://github.com/Lovingcats"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/%EC%9A%A9%EC%A0%9C-%EC%A1%B0-03a1722a2/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/조용제/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://www.facebook.com/profile.php?id=100011212391276"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
 	<a href="https://www.instagram.com/qkqh.5/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>	
 </p>
 
